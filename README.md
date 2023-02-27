@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo: Ciro Florentin</h1>
-<h3 align="center">Soy un programador apasionado</h3>
+<h3 align="center">Soy un programador apasionado en el machine learning</h3>
 
 - 💬 Ask me about **Python, SQLite**
 
