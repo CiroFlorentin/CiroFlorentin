@@ -1,15 +1,96 @@
-<h1 align="center">Hola 👋, Me llamo Ciro Florentin</h1>
-<h3 align="center">Soy un programador apasionado por el Machine Learning</h3>
+<div align="center">
+  <h1>Ciro Florentin</h1>
+  <h3>Jupyter Notebook Frontend Development Specialist | Focused Engineer</h3>
+</div>
 
-- 💬 Ask me about **Python, SQLite**
+---
 
-- 📫 How to reach me **cfloren01@gmail.com**
+### 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ciro florentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ciro florentin" height="30" width="40" /></a>
-<a href="https://instagram.com/ciroflorentiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ciroflorentiin" height="30" width="40" /></a>
+I am a dedicated student currently pursuing a Bachelor's Degree in Information Technology Management at UNPAZ. My academic journey has provided me with a robust foundation in data analysis and development, fostering a strong interest in **Data Science** methodologies and applications. I am passionate about leveraging technology to solve complex problems, with a particular focus on efficient data handling and insightful visualization.
+
+My commitment to continuous learning and growth is reflected in my development journey:
+<p>
+  <code>🌱 Currently cultivating my skills with a <b>Casual Grind Score</b></code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Core Skills
+
+My technical proficiency spans across various languages and tools, with a strong emphasis on front-end development and data-centric technologies.
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Languages</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        </p>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Frameworks & Libraries</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+        </p>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <div align="center">
+        <h4>Tools & Platforms</h4>
+        <p>
+          <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Featured Projects
+
+Here are some of my key projects demonstrating my technical skills and development approach. With a total of **2 stars** across my repositories and **0 followers**, I am actively building my portfolio and expanding my contributions.
+
+| Proyecto | Descripción | Tecnologías | ⭐ | Enlace |
+| --- | --- | --- | --- | --- |
+| [**Portafolio**](https://github.com/CiroFlorentin/Portafolio) | A personal portfolio website meticulously crafted with Astro, showcasing my projects and technical competencies. This project serves as a comprehensive representation of my development journey and capabilities. | <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" /> | 1 | [View Project](https://github.com/CiroFlorentin/Portafolio) |
+| [**Data Science with Python**](https://github.com/CiroFlorentin/DataScienceWithPython) | A learning-focused repository built around DataCamp’s Associate Data Scientist in Python track, applying Python to import, clean, manipulate, and visualize real-world data while exploring core data science and machine learning workflows. | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> | 0 | [View Project](https://github.com/CiroFlorentin/invitacion-15) |
+| [**Paradigmas-de-programacion-**](https://github.com/CiroFlorentin/Paradigmas-de-programacion-) | A repository dedicated to exploring various programming paradigms, serving as a structured learning environment for understanding different architectural approaches in software development. | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> | 0 | [View Project](https://github.com/CiroFlorentin/Paradigmas-de-programacion-) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CiroFlorentin&show_icons=true&hide_title=true&count_private=true&theme=buefy&hide_border=true&layout=compact" alt="Ciro Florentin GitHub Stats" style="width: 48%; margin-right: 1%; margin-bottom: 1%;"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiroFlorentin&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Ciro Florentin Top Languages" style="width: 48%; margin-left: 1%; margin-bottom: 1%;"/>
+  </a>
+</div>
+
+---
+
+### 📧 Contact
+
+For professional inquiries or collaborations, please feel free to connect.
+
+<div align="center">
+  <p>
+    Reach out via: [Your Professional Email] | [Your LinkedIn Profile]
+  </p>
+</div>
+
+---
+<!--
+This README was generated using data provided by the user and styled according to professional guidelines.
+-->
