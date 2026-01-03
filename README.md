@@ -69,14 +69,7 @@ Here are some of my key projects demonstrating my technical skills and developme
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CiroFlorentin&show_icons=true&hide_title=true&count_private=true&theme=buefy&hide_border=true&layout=compact" alt="Ciro Florentin GitHub Stats" style="width: 48%; margin-right: 1%; margin-bottom: 1%;"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiroFlorentin&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Ciro Florentin Top Languages" style="width: 48%; margin-left: 1%; margin-bottom: 1%;"/>
-  </a>
-</div>
+![CiroFlorentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiroFlorentin&show_icons=true&theme=transparent)
 
 ---
 
@@ -86,7 +79,7 @@ For professional inquiries or collaborations, please feel free to connect.
 
 <div align="center">
   <p>
-    Reach out via: [Your Professional Email] | [Your LinkedIn Profile]
+    Reach out via: [cfloren01@gmail.com] | [linkedin.com/in/ciro-florentiin](
   </p>
 </div>
 
