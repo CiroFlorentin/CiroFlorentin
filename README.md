@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ciro Florentin</h1>
-  <h3>Jupyter Notebook Frontend Development Specialist | Focused Engineer</h3>
+  <h3>Data Scientist | Python & Data-Driven Solutions</h3>
 </div>
 
 ---
@@ -62,7 +62,7 @@ Here are some of my key projects demonstrating my technical skills and developme
 | Proyecto | Descripción | Tecnologías | ⭐ | Enlace |
 | --- | --- | --- | --- | --- |
 | [**Portafolio**](https://github.com/CiroFlorentin/Portafolio) | A personal portfolio website meticulously crafted with Astro, showcasing my projects and technical competencies. This project serves as a comprehensive representation of my development journey and capabilities. | <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" /> | 1 | [View Project](https://github.com/CiroFlorentin/Portafolio) |
-| [**Data Science with Python**](https://github.com/CiroFlorentin/DataScienceWithPython) | A learning-focused repository built around DataCamp’s Associate Data Scientist in Python track, applying Python to import, clean, manipulate, and visualize real-world data while exploring core data science and machine learning workflows. | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> | 0 | [View Project](https://github.com/CiroFlorentin/invitacion-15) |
+| [**Data Science with Python**](https://github.com/CiroFlorentin/DataScienceWithPython) | A learning-focused repository built around DataCamp’s Associate Data Scientist in Python track, applying Python to import, clean, manipulate, and visualize real-world data while exploring core data science and machine learning workflows. | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> | 0 | [View Project](https://github.com/CiroFlorentin/DataScienceWithPython) |
 | [**Paradigmas-de-programacion-**](https://github.com/CiroFlorentin/Paradigmas-de-programacion-) | A repository dedicated to exploring various programming paradigms, serving as a structured learning environment for understanding different architectural approaches in software development. | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> | 0 | [View Project](https://github.com/CiroFlorentin/Paradigmas-de-programacion-) |
 
 ---
