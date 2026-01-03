@@ -65,11 +65,6 @@ Here are some of my key projects demonstrating my technical skills and developme
 | [**Data Science with Python**](https://github.com/CiroFlorentin/DataScienceWithPython) | A learning-focused repository built around DataCamp’s Associate Data Scientist in Python track, applying Python to import, clean, manipulate, and visualize real-world data while exploring core data science and machine learning workflows. | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> | 0 | [View Project](https://github.com/CiroFlorentin/DataScienceWithPython) |
 | [**Paradigmas-de-programacion-**](https://github.com/CiroFlorentin/Paradigmas-de-programacion-) | A repository dedicated to exploring various programming paradigms, serving as a structured learning environment for understanding different architectural approaches in software development. | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> | 0 | [View Project](https://github.com/CiroFlorentin/Paradigmas-de-programacion-) |
 
----
-
-### 📊 GitHub Stats
-
-![CiroFlorentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiroFlorentin&show_icons=true&theme=transparent)
 
 ---
 
@@ -79,7 +74,7 @@ For professional inquiries or collaborations, please feel free to connect.
 
 <div align="center">
   <p>
-    Reach out via: [cfloren01@gmail.com] | [linkedin.com/in/ciro-florentiin](
+    Reach out via: [cfloren01@gmail.com] | [linkedin.com/in/ciro-florentiin]
   </p>
 </div>
 
